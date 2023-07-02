@@ -1,1 +1,1 @@
-# noobmachine
+# noob-machine
