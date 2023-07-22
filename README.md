@@ -1,1 +1,1 @@
-# noob-machine
+# noob-vm
