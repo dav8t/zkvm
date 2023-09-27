@@ -1,2 +1,2 @@
-# noob-vm
+# virtual machine
 a stack based virtual machine
