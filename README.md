@@ -6,7 +6,7 @@ implementation of a zero knowledge virtual machine
   - [ ] FRI
   - [ ] variant
   - [ ] fiat-shamir
-- [ ] compulation(the act or process of compiling)
+- [ ] compilation
   - [ ] program
   - [ ] input
   - [ ] output
