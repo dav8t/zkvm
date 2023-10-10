@@ -11,6 +11,7 @@ implementation of a zero knowledge virtual machine
   - [ ] input
   - [ ] output
   - [ ] recursion
+  - [ ] assembly
 - [ ] primitives
   - [ ] polynomial constraints
   - [ ] degree
