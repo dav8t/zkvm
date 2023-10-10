@@ -1,7 +1,7 @@
 use std::vec::Vec;
 
 #[derive(Debug)]
-pub struct virtualmachine {
+pub struct stackmachine {
     pc: i32,
     sp: i32,
     memory: Vec<i32>,
@@ -10,7 +10,7 @@ pub struct virtualmachine {
     running: bool,
 }
 
-impl virtualmachine {
+impl stackmachine {
     pub fn new() -> Self {
         StackVM {
             pc: 0,
