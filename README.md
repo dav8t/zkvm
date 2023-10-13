@@ -1,5 +1,5 @@
 # zkvm
-implementation of a zero knowledge virtual machine
+implementation of a zero knowledge virtual machine[open for (good and bad)ideas]
 - [ ] setup
   - [ ] constraints
   - [ ] conditions
